@@ -4,24 +4,24 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'I LOVE Cleaning Homes'
+description: "Let me clean yours"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Andrew Sullivan'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: absullivan
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+location: 'Vermont, USA'
 url: 'http://absullivan.github.io/andrewcleansvt/'
 image: 'assets/images/casper.png'
 
 short_url: 'absullivan.github.io/andrewcleansvt/'
-google_analytics: UA-69281367-1
-disqus: username
+#google_analytics: UA-69281367-1
+#disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /andrewcleansvt/
 
