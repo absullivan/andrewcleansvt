@@ -7,8 +7,6 @@ logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+After returning to this area, I began offering house cleaning services. I feel that having a clean home just makes the home so much more enjoyable. In addition to being hard-working, flexible, and dependable, I am also insured. I'm happy to do anything from single cleanings to scheduled upkeep visits. Please feel free to reach me at andrewcleansvt@gmail.com or call 802-377-0240 with any questions you might have. Right now, I'm offering a 10% discount for first cleanings! I offer choices among standard and eco-cleaning products.
 
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+I can't wait to free up your next beautiful day. Thank you!
