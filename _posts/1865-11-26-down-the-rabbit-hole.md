@@ -8,7 +8,7 @@ tags: fiction
 subclass: 'post tag-fiction'
 categories: 'casper'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo_abs.png'
 cover: 'assets/images/cover1.jpg'
 ---
 
