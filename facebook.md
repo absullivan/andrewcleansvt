@@ -1,5 +1,5 @@
 ---
 layout: redirected
-redirect_to: https://m.facebook.com/andrewcleansvt
+redirect_to: https://facebook.com/andrewcleansvt
 title: "Facebook Page Redirect"
 ---
