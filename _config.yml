@@ -16,10 +16,9 @@ author: 'Andrew Sullivan'
 nickname: absullivan
 bio: 'After returning to this area, I began offering house cleaning services. Right now, I am offering a 10% discount for first cleanings!'
 location: 'Vermont, USA'
-url: 'http://absullivan.github.io/andrewcleansvt/'
+url: https://github.com/absullivan
 image: 'assets/images/logo_abs.png'
-
-short_url: 'absullivan.github.io/andrewcleansvt/'
+short_url: 'github.com/absullivan'
 #google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -60,7 +59,7 @@ username: absullivan
 repo: andrewcleansvt
 branch: master
 relative_source: ../andrewcleansvt/
-destination: ../jasper-pages/
+#destination: ../jasper-pages/
 production_url:  https://andrewcleansvt.com
 source_url:      https://github.com/absullivan/andrewcleansvt/
 
