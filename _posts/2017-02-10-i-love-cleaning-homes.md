@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
+cover: 'assets/images/obi_kitchen2_1400x1050.jpg'
 title: I LOVE Cleaning Homes 
 date:   2015-09-27 10:18:00
 tags: About
